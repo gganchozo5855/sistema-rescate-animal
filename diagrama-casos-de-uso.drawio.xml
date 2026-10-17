@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="RQl8rn7wOCJVrP_iH_pM">
+    <mxGraphModel dx="1640" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3i8z2roc8_ac50zVynw--2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="550" width="900" x="-36" y="294" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0); text-align: start; font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; line-height: 20px;&quot;&gt;&lt;p&gt;&lt;strong&gt;Sistema de Control de Rescate y Adopción Animal&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="391" x="218" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--23" edge="1" parent="1" source="3i8z2roc8_ac50zVynw--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="3i8z2roc8_ac50zVynw--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0); text-align: start; white-space: normal; font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; line-height: 20px;&quot;&gt;Ciudadano/&lt;br&gt;Reportante&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="50" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--25" edge="1" parent="1" source="3i8z2roc8_ac50zVynw--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="3i8z2roc8_ac50zVynw--19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="270" />
+              <mxPoint x="700" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0); text-align: start; white-space: normal; font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; line-height: 20px;&quot;&gt;Voluntario/&lt;br&gt;Veterinario&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="730" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--27" edge="1" parent="1" source="3i8z2roc8_ac50zVynw--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="3i8z2roc8_ac50zVynw--17">
+          <mxGeometry relative="1" x="-0.027" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="460" />
+              <mxPoint x="510" y="460" />
+              <mxPoint x="510" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--28" edge="1" parent="1" source="3i8z2roc8_ac50zVynw--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="3i8z2roc8_ac50zVynw--18">
+          <mxGeometry relative="1" x="0.0476" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="480" />
+              <mxPoint x="510" y="590" />
+              <mxPoint x="230" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--29" edge="1" parent="1" source="3i8z2roc8_ac50zVynw--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="3i8z2roc8_ac50zVynw--20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="530" />
+              <mxPoint x="690" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--30" edge="1" parent="1" source="3i8z2roc8_ac50zVynw--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="3i8z2roc8_ac50zVynw--22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="510" />
+              <mxPoint x="710" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div style=&quot;color: rgb(0, 0, 0); text-align: start; white-space: normal; font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; line-height: 20px;&quot;&gt;Administrador del Refugio&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="730" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--16" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;align=center;" value="&lt;div style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; line-height: 20px;&quot;&gt;&lt;li&gt;Reportar rescate&lt;/li&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="170" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;align=center;" value="Registrar animal rescatado" vertex="1">
+          <mxGeometry height="80" width="120" x="170" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--18" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;align=center;" value="&lt;div style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; line-height: 20px;&quot;&gt;Categorizar especie&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="170" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--19" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;align=center;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; text-decoration-line: inherit; background-color: transparent;&quot;&gt;Consultar caso asignado&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="530" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;align=center;" value="&lt;div style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; line-height: 20px;&quot;&gt;Asignar responsable&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="530" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--21" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;align=center;" value="&lt;div style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; line-height: 20px;&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); line-height: 20px;&quot;&gt;Actualizar estado del caso&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="530" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;align=center;" value="&lt;div style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; line-height: 20px;&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); line-height: 20px;&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); line-height: 20px;&quot;&gt;Gestionar casos&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="530" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--26" edge="1" parent="1" source="3i8z2roc8_ac50zVynw--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.978;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="3i8z2roc8_ac50zVynw--21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
