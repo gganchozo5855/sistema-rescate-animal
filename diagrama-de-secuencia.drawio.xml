@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="RQl8rn7wOCJVrP_iH_pM">
+    <mxGraphModel dx="984" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3i8z2roc8_ac50zVynw--155" edge="1" parent="1" source="3i8z2roc8_ac50zVynw--142" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;" target="3i8z2roc8_ac50zVynw--143">
+          <mxGeometry relative="1" x="0.0069" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--142" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" value="Administrador" vertex="1">
+          <mxGeometry height="80" width="30" x="26" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--168" edge="1" parent="1" source="3i8z2roc8_ac50zVynw--143" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;" target="3i8z2roc8_ac50zVynw--145">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="258" y="225" />
+            </Array>
+            <mxPoint x="330" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--143" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="GestorCasos&amp;nbsp;" vertex="1">
+          <mxGeometry height="240" width="100" x="138" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--145" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="AnimalFactory&amp;nbsp;" vertex="1">
+          <mxGeometry height="67" width="100" x="279" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--171" edge="1" parent="1" source="3i8z2roc8_ac50zVynw--146" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="3i8z2roc8_ac50zVynw--143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="328.5" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--146" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="CasoRescate&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="100" x="420" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--173" edge="1" parent="1" source="3i8z2roc8_ac50zVynw--147" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="3i8z2roc8_ac50zVynw--143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="398.5" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--147" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Notificador&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="100" x="560" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--175" edge="1" parent="1" source="3i8z2roc8_ac50zVynw--148" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="3i8z2roc8_ac50zVynw--143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--148" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Responsable" vertex="1">
+          <mxGeometry height="80" width="100" x="700" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--167" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;registrarCaso(datos)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="53" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--169" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; text-align: start; background-color: transparent;&quot;&gt;crearAnimal(tipo)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="200" y="197" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--172" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; text-align: start; background-color: transparent;&quot;&gt;crearExpediente()&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="264" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--174" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; text-align: start; background-color: transparent;&quot;&gt;notificarResponsable()&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="334" y="292" as="geometry" />
+        </mxCell>
+        <mxCell id="3i8z2roc8_ac50zVynw--176" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Segoe UI&amp;quot;; font-size: 14px; text-align: start; background-color: transparent;&quot;&gt;recibirNotificacion()&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="404" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
