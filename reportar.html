@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Formulario para registrar un nuevo caso de rescate animal.">
+    <title>Reportar rescate | Rescate Animal</title>
+</head>
+<body>
+    <header>
+        <img
+            src="assets/img/logo-rescate.png"
+            alt="Logo del Sistema de Control de Rescate y Adopción Animal"
+            width="120"
+        >
+
+        <h1>Sistema de Control de Rescate y Adopción Animal</h1>
+
+        <nav aria-label="Navegación principal">
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li>
+                    <a href="reportar.html" aria-current="page">
+                        Reportar rescate
+                    </a>
+                </li>
+                <li><a href="rescates.html">Casos registrados</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Registrar un nuevo rescate</h2>
+            <p>
+                Complete la información para registrar el caso y facilitar
+                la atención del animal.
+            </p>
+
+            <form action="#" method="post">
+                <p>
+                    <label for="nombre">Nombre provisional o título del caso:</label>
+                    <input
+                        type="text"
+                        id="nombre"
+                        name="nombre"
+                        required
+                    >
+                </p>
+
+                <p>
+                    <label for="categoria">Categoría:</label>
+                    <select id="categoria" name="categoria" required>
+                        <option value="">Seleccione una categoría</option>
+                        <option value="perro">Perro</option>
+                        <option value="gato">Gato</option>
+                        <option value="fauna-silvestre">Fauna silvestre</option>
+                    </select>
+                </p>
+
+                <fieldset>
+                    <legend>Nivel de urgencia médica</legend>
+
+                    <input
+                        type="radio"
+                        id="urgencia-alta"
+                        name="urgencia"
+                        value="alta"
+                        required
+                    >
+                    <label for="urgencia-alta">Alta</label>
+
+                    <input
+                        type="radio"
+                        id="urgencia-media"
+                        name="urgencia"
+                        value="media"
+                    >
+                    <label for="urgencia-media">Media</label>
+
+                    <input
+                        type="radio"
+                        id="urgencia-baja"
+                        name="urgencia"
+                        value="baja"
+                    >
+                    <label for="urgencia-baja">Baja</label>
+                </fieldset>
+
+                <p>
+                    <label for="descripcion">
+                        Descripción del estado del animal:
+                    </label>
+                    <br>
+                    <textarea
+                        id="descripcion"
+                        name="descripcion"
+                        rows="6"
+                        cols="50"
+                        required
+                    ></textarea>
+                </p>
+
+                <p>
+                    <button type="submit">Registrar caso</button>
+                    <button type="reset">Limpiar formulario</button>
+                </p>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>
+            Sistema de Control de Rescate y Adopción Animal.
+        </p>
+    </footer>
+</body>
+</html>
